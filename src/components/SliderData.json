@@ -1,0 +1,10 @@
+{ 
+  "SliderData" : [
+  { "image": "https://cdn.britannica.com/78/183178-050-34100571/Vanguard-I.jpg", "title": "Vanguard" },
+  { "image": "https://image.cnbcfm.com/api/v1/image/106830892-1611766022067-SXM-7-187-013.jpg?v=1611766089&w=929&h=523&vtcrop=y", "title": "sirius"},
+  { "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GPS-IIRM.jpg/800px-GPS-IIRM.jpg", "title": "USA-206" },
+  { "image": "https://science.nasa.gov/wp-content/uploads/2023/07/hubble-space-telescope-hst-6.jpg?w=4096&format=jpeg", "title": "hubble"},
+  { "image": "https://www.asc-csa.gc.ca/images/satellites/envisat/envisat-ban-id-690.jpg", "title": "envisat"},
+  { "image": "https://www.americaspace.com/wp-content/uploads/2015/09/morelos3shroud.jpg", "title": "morelos"},
+  { "image": "https://images-assets.nasa.gov/image/iss056e201248/iss056e201248~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint", "title": "iss"}
+]}
