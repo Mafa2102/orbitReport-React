@@ -1,6 +1,6 @@
 import React from "react";
 import satData from "./satData";
-import styles from "./styling.css"
+import './styling.css'
 
 const Buttons = ({ filterByType, setSat, displaySats }) => {
   return (
